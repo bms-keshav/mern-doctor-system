@@ -259,18 +259,8 @@ npm run build
 2. Deploy to Vercel, Netlify, or similar platforms
 3. Update `VITE_BACKEND_URL` to production backend URL
 
-## 📝 License
 
-This project is open source and available under the [MIT License](LICENSE).
 
-## 👥 Contributing
 
-Contributions are welcome! Please feel free to submit a Pull Request.
 
-## 📧 Contact
 
-For any queries or support, please contact [your-email@example.com]
-
----
-
-**Made with ❤️ **
