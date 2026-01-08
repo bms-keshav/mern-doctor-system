@@ -273,4 +273,4 @@ For any queries or support, please contact [your-email@example.com]
 
 ---
 
-**Made with ❤️ by [Your Name]**
+**Made with ❤️ **
